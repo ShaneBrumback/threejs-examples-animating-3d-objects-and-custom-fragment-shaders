@@ -1,5 +1,7 @@
 
-https://github.com/ShaneBrumback/threejs-examples-animating-3d-objects-and-custom-fragment-shaders/assets/106123592/6a0ed35a-d3f9-4e22-80d1-9a1e96e3af4c
+
+
+https://github.com/ShaneBrumback/threejs-examples-animating-3d-objects-and-custom-fragment-shaders/assets/106123592/0694a2d7-aa37-4249-b189-4ef639034f36
 
 
 # threejs-examples-animating-3d-objects-and-custom-fragment-shaders
