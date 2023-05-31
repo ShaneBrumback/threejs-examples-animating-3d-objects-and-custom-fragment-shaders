@@ -34,11 +34,11 @@ Contributions are welcome! If you have any improvements, bug fixes, or new examp
 This repository is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
 ### My Portfolio Website Links
-- [Home](index.html)
-- [Recent Projects](shane-brumback-projects.html)
-- [About Me](shane-brumback-about-me.html)
-- [Contact Me](shane-brumback-contact-me.html)
-- [Threejs Examples](threejs-examples-how-to-animate-3d-spheres.html)
+- [Home](https://www.shanebrumback.com)
+- [Recent Projects](https://www.shanebrumback.com/shane-brumback-projects.html)
+- [About Me](https://www.shanebrumback.com/shane-brumback-about-me.html)
+- [Contact Me](https://www.shanebrumback.com/shane-brumback-contact-me.html)
+- [Threejs Examples](https://www.shanebrumback.com/threejs-examples-how-to-animate-3d-spheres.html)
 
 ### Recent Projects Links
 - [ShopTheSpark.com](https://www.shopthespark.com)
