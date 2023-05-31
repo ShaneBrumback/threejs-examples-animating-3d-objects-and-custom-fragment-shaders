@@ -3,14 +3,19 @@
 
 https://github.com/ShaneBrumback/threejs-examples-animating-3d-objects-and-custom-fragment-shaders/assets/106123592/0694a2d7-aa37-4249-b189-4ef639034f36
 
-
 # threejs-examples-animating-3d-objects-and-custom-fragment-shaders
 
 # Threejs Examples - Animating 3D Objects & Fragment Shaders
 
 This repository contains examples of animating 3D objects and using fragment shaders with Three.js. These examples showcase the capabilities of Three.js and demonstrate how to create engaging and interactive 3D graphics on the web.
 
-
+## Table of Contents
+- [Examples](#examples)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [My Portfolio Website Links](#my-portfolio-website-links)
+- [Recent Projects Links](#recent-projects-links)
 
 ## Examples
 
@@ -28,3 +33,19 @@ Contributions are welcome! If you have any improvements, bug fixes, or new examp
 
 This repository is licensed under the MIT License. Please see the [LICENSE](LICENSE) file for more details.
 
+### My Portfolio Website Links
+- [Home](index.html)
+- [Recent Projects](shane-brumback-projects.html)
+- [About Me](shane-brumback-about-me.html)
+- [Contact Me](shane-brumback-contact-me.html)
+- [Threejs Examples](threejs-examples-how-to-animate-3d-spheres.html)
+
+### Recent Projects Links
+- [ShopTheSpark.com](https://www.shopthespark.com)
+- [DualAirFryers.com](https://www.dualairfryers.com)
+- [SpaceWowGame.com](https://www.spacewowgame.com)
+- [My Tech Blog](https://shanebrumback.blogspot.com/)
+- [Trending Top 10 Blog](https://trendingtop10sellers.blogspot.com/)
+- [Shane Brumback Channel](https://www.youtube.com/channel/UC5kqNYlnPWrL46eTKjTEPHg)
+- [Relaxing Music YouTube Channel](https://www.youtube.com/channel/UCZFli7epnBtP2pcdsVs3gvg)
+- [SuperSoldierBattle.com](https://www.supersoldierbattle.com)
