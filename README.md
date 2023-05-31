@@ -1,8 +1,14 @@
+
+https://github.com/ShaneBrumback/threejs-examples-animating-3d-objects-and-custom-fragment-shaders/assets/106123592/6a0ed35a-d3f9-4e22-80d1-9a1e96e3af4c
+
+
 # threejs-examples-animating-3d-objects-and-custom-fragment-shaders
 
 # Threejs Examples - Animating 3D Objects & Fragment Shaders
 
 This repository contains examples of animating 3D objects and using fragment shaders with Three.js. These examples showcase the capabilities of Three.js and demonstrate how to create engaging and interactive 3D graphics on the web.
+
+
 
 ## Examples
 
